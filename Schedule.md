@@ -9,7 +9,9 @@ Arrival and check in (XXX what is check-in time?)
 Active classroom (OUGL)
 
 9 AM : Welcome and introduction (Ariel, Tal, and everyone)
+
 10 AM : Introduction to Data Science (Fernando?)
+
 11 AM : Data science tools -- tutorials (OUGL and Data Science Studio):
 
    - The Unix shell (Tara, ??)
@@ -24,6 +26,7 @@ Active classroom (OUGL)
 ### Tuesday (9/6)
 
 Using Cloud computing (Amazon Web Services, ...) for neuroimaging analysis (Cameron?)
+
 Open data-sets in neuroscience (Also Cameron??)
 
 Afternoon breakout session (2:30 PM): AIBS data-sets (Terri, ??)
@@ -31,6 +34,7 @@ Afternoon breakout session (2:30 PM): AIBS data-sets (Terri, ??)
 ### Wednesday (9/7)
 
 Quantitative and diffusion MRI (Jason)
+
 scikit-image (Stefan, Ariel, Valentina?)
 
 Afternoon breakout session : advanced time-series analysis (Bing)
@@ -38,7 +42,9 @@ Afternoon breakout session : advanced time-series analysis (Bing)
 ### Thursday (9/8)
 
 9 AM : Model evaluation and model comparison in fMRI (Kendrick)
+
 10 AM : scikit-learn  (Jake, ...?)
+
 1 PM : Nilearn (Chris?)?
 
 Afternoon breakout session (2:30 PM): Using GNU Make for reproducible, parallel neuroimaging workflows (Tara)
