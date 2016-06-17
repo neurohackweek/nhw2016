@@ -1,6 +1,6 @@
 ## Code of Conduct
 
-is dedicated to providing a harassment-free learning experience for everyone
+Neurohackweek is dedicated to providing a harassment-free learning experience for everyone
 regardless of gender, gender identity and expression, sexual orientation,
 disability, physical appearance, body size, race, age or religion. We do not
 tolerate harassment of participants in any form. Sexual language and imagery is
