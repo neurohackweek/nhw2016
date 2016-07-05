@@ -6,8 +6,8 @@ description: "A summer school in neuroimaging and data science at the University
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#444444'
-  links: '#e8e3d3'
+  primary-dark: '#333333'
+  links: '#ff9900'
 
 # Footer settings
 footer: Ariel, Rokem UW eScience Institute
