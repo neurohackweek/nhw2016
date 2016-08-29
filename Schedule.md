@@ -16,22 +16,15 @@ Physics Astronomy 5th floor
 
 11 AM : Data science tools -- tutorials (Data Science Studio):
 
-#### Room 1:
-
-11 - noon Unix shell (beginners; Valentina)
-noon - 1 lunch
-1 - 2 Unix shell (cotd.; Valentina)
-2 - 4 Version control with Git and Github (beginners; Bernease)
-4 - 6 Programming in Python (beginners; Fatma)
-
-#### Room 2:
-
-11 - noon Unix shell (advanced; Tara)
-noon - 1 lunch
-1 - 2 PM Unix shell cotd. (advanced; Tara)
-2 - 3 Git and Github (advanced; Ariel).
-3 - 4 Programming in Python (advanced; Fernando).
-4 - 6 Interactive data visualization with Matplotlib (Tal).
+| Time | Room 1 (TBD) | Room 2 (TBD) | Room 3 (TBD) |
+|:------------- |:-----:|:-----:|:-----:|
+| 11 AM - noon | Unix shell (Beginners) | Advanced Unix and Make | Docker |
+| noon - 1 PM | Lunch | Lunch | Lunch |
+| 1 - 2 PM | Git/Github 1 | Python programming 1 | Python tips and tricks |
+| 2 - 3 PM | Git/Github 2 | Python programming 2 | IPython tips and tricks |
+| 3 - 4 PM | Python programming 1 | Advanced data manipulation (Pandas/xray) | Software testing |
+| 4 - 5 PM | Python programming 2 | Parallel computing with Spark | Advanced Unix and Make |
+| 5 - 6 PM | Software testing | Data visualization | Cython |
 
 6 PM : Welcome reception (Data Science Studio)
 
